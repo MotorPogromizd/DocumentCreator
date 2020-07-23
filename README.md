@@ -43,3 +43,9 @@ yarn add -D webpack-node-externals
 yarn add -D tsconfig-paths-webpack-plugin
 yarn add -D nodemon
 ```
+For electron
+```
+vue add electron-builder
+yarn add -D @types/node@12
+yarn add -D @types/electron-devtools-installer
+```
