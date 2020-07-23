@@ -1,0 +1,23 @@
+{
+  "files.autoSave": "onWindowChange",
+  "vetur.validation.template": false,
+  "vetur.format.enable": false,
+  "vetur.experimental.templateInterpolationService": true,
+  "eslint.validate": [
+    "typescript",
+    "vue",
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "json.format.enable": true,
+  "javascript.format.enable": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.format.enable": false,
+}

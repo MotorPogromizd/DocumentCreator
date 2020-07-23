@@ -1,2 +1,45 @@
-# DocumentCreator
-Create program docuents
+# document-creator
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Run your end-to-end tests
+```
+yarn test:e2e
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Install
+```
+vue create document-creator
+vue add quasar
+yarn add -D eslint-import-resolver-typescript
+yarn add -D webpack-cli
+yarn add -D webpack-node-externals
+yarn add -D tsconfig-paths-webpack-plugin
+yarn add -D nodemon
+```
